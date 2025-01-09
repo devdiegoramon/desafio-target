@@ -1,5 +1,7 @@
 # Fibonacci App
 
+DEPLOY: https://desafio-target-brown.vercel.app/
+
 Este é um aplicativo React que inclui várias funcionalidades relacionadas à sequência de Fibonacci e outros cálculos matemáticos.
 
 ## Funcionalidades
